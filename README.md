@@ -5,7 +5,7 @@
 **Institución:** EEST N.º 1 "Eduardo Ader"  
 **Curso:** 5.º año  
 **Año:** 2026  
-**Estudiante:** [Tu nombre y apellido]
+**Estudiante:** [Alma Olivola]
 
 ## Descripción
 
