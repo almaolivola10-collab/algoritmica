@@ -42,7 +42,7 @@ algoritmica/
 - `README.md`: explica el contenido del proyecto.
 - `docs/`: contiene el informe en PDF.
 - `src/`: contiene el código fuente en C++.
-- `capturas/`: contiene la captura de la ejecución del programa.
+- `capturas/`: contiene las capturas de la ejecución del programa.
 
 ## Tecnologías y herramientas
 
