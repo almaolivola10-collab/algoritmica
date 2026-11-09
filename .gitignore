@@ -1,0 +1,13 @@
+
+# Archivos ejecutables y compilados
+*.exe
+*.out
+*.o
+*.obj
+
+# Configuración del editor
+.vscode/
+
+# Archivos temporales
+*.tmp
+*.log
